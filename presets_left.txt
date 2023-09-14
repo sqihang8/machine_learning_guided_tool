@@ -1,0 +1,6 @@
+ASD,Move Widget Right
+DSA,Move Widget Left
+SW,Move Widget Up
+SX,Move Widget Down
+QWE,Select Text Right
+EWQ,Select Text Left

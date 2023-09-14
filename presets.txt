@@ -1,0 +1,6 @@
+HJK,Move Widget Right
+KJH,Move Widget Left
+JI,Move Widget Up
+JN,Move Widget Down
+YUI,Select Text Right
+IUY,Select Text Left
